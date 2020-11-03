@@ -13,7 +13,7 @@ pwd=${PWD}
  
 while read line; do
     echo $line
-    isempty="notemtpy"
+    isempty="notempty"
     count=$((count+1))
     line1=${line%%/*}
     if [ -z "$line" ]; then
