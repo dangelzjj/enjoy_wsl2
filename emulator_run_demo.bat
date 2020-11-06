@@ -1,2 +1,1 @@
-D:\android-sdk-windows\emulator\emulator.exe -avd and6  -wipe-data
-D:\android-sdk-windows\emulator\emulator.exe -avd and6  -system "Y:\android_6\out\target\product\generic_x86_64\system.img" -data "Y:\android_6\out\target\product\generic_x86_64\userdata.img"
+D:\android-sdk-windows\emulator\emulator.exe -avd and6  -wipe-data -system "Y:\android_6\out\target\product\generic_x86_64\system.img" -data "Y:\android_6\out\target\product\generic_x86_64\userdata.img"
